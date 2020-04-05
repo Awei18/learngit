@@ -7,4 +7,5 @@ change 01
 creating a new branch for testing`
 conflict fixed
 git branch strategy
+add one LINE
 sdbasjdbasj
